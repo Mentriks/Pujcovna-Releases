@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.1.4</version>
-    <url>https://github.com/Mentriks/Pujcovna-Releases/releases/download/v1.1.4/Aplikace.zip</url>
-    <changelog>https://github.com/Mentriks/Pujcovna-Releases/releases/tag/v1.1.4</changelog>
+    <version>1.1.5</version>
+    <url>https://github.com/Mentriks/Pujcovna-Releases/releases/download/v1.1.5/Aplikace.zip</url>
+    <changelog>https://github.com/Mentriks/Pujcovna-Releases/releases/tag/v1.1.5</changelog>
     <mandatory>false</mandatory>
-    <fileSize>77402467</fileSize>
+    <fileSize>77405366</fileSize>
 </item>
